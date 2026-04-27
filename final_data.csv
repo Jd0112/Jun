@@ -1,0 +1,409 @@
+year,destination,inflow,outflow,net_migration,state,unemployment_rate
+2015,Alabama,114876,100809,14067,Alabama,6.1
+2015,Alaska,34696,40552,-5856,Alaska,6.3
+2015,Arizona,253281,184476,68805,Arizona,6.1
+2015,Arkansas,81594,76673,4921,Arkansas,5.0
+2015,California,514477,643710,-129233,California,6.2
+2015,Colorado,227445,182945,44500,Colorado,3.7
+2015,Connecticut,76997,103343,-26346,Connecticut,5.6
+2015,Delaware,44495,30881,13614,Delaware,4.8
+2015,District of Columbia,59905,64736,-4831,District of Columbia,6.9
+2015,Florida,584938,445320,139618,Florida,5.5
+2015,Georgia,283325,249302,34023,Georgia,6.1
+2015,Hawaii,53742,60459,-6717,Hawaii,3.4
+2015,Idaho,73809,55885,17924,Idaho,3.9
+2015,Illinois,209828,337592,-127764,Illinois,6.0
+2015,Indiana,147529,141616,5913,Indiana,4.8
+2015,Iowa,85937,81054,4883,Iowa,3.7
+2015,Kansas,91340,99652,-8312,Kansas,4.2
+2015,Kentucky,106918,109026,-2108,Kentucky,5.3
+2015,Louisiana,93321,100167,-6846,Louisiana,6.3
+2015,Maine,30123,37053,-6930,Maine,4.4
+2015,Maryland,168894,181803,-12909,Maryland,5.0
+2015,Massachusetts,132642,174793,-42151,Massachusetts,4.8
+2015,Michigan,142639,180337,-37698,Michigan,5.4
+2015,Minnesota,108476,127471,-18995,Minnesota,3.8
+2015,Mississippi,69351,81358,-12007,Mississippi,6.5
+2015,Missouri,159152,155529,3623,Missouri,5.1
+2015,Montana,42760,32620,10140,Montana,4.3
+2015,Nebraska,52950,53210,-260,Nebraska,3.0
+2015,Nevada,135999,99409,36590,Nevada,6.9
+2015,New Hampshire,53446,41885,11561,New Hampshire,3.4
+2015,New Jersey,144074,227380,-83306,New Jersey,5.7
+2015,New Mexico,55753,68415,-12662,New Mexico,6.6
+2015,New York,257611,448855,-191244,New York,5.2
+2015,North Carolina,310612,237206,73406,North Carolina,5.7
+2015,North Dakota,42618,31867,10751,North Dakota,2.8
+2015,Ohio,203475,213236,-9761,Ohio,5.0
+2015,Oklahoma,110878,98771,12107,Oklahoma,4.3
+2015,Oregon,141162,109240,31922,Oregon,5.5
+2015,Pennsylvania,232683,262887,-30204,Pennsylvania,5.4
+2015,Rhode Island,38344,29918,8426,Rhode Island,6.0
+2015,South Carolina,170366,134555,35811,South Carolina,5.9
+2015,South Dakota,26962,25769,1193,South Dakota,3.0
+2015,Tennessee,195923,176961,18962,Tennessee,5.5
+2015,Texas,553032,445343,107689,Texas,4.5
+2015,Utah,97361,84071,13290,Utah,3.5
+2015,Vermont,21232,22135,-903,Vermont,3.5
+2015,Virginia,277715,268593,9122,Virginia,4.4
+2015,Washington,230907,178528,52379,Washington,5.5
+2015,West Virginia,42078,51953,-9875,West Virginia,6.5
+2015,Wisconsin,106511,109243,-2732,Wisconsin,4.4
+2015,Wyoming,35947,31537,4410,Wyoming,4.2
+2016,Alabama,122220,99892,22328,Alabama,5.8
+2016,Alaska,31300,42074,-10774,Alaska,6.6
+2016,Arizona,273257,192103,81154,Arizona,5.5
+2016,Arkansas,71083,72033,-950,Arkansas,4.0
+2016,California,514758,657690,-142932,California,5.5
+2016,Colorado,223260,193179,30081,Colorado,3.1
+2016,Connecticut,75586,112914,-37328,Connecticut,4.9
+2016,Delaware,33400,28742,4658,Delaware,4.5
+2016,District of Columbia,58154,59972,-1818,District of Columbia,6.2
+2016,Florida,605018,433452,171566,Florida,4.9
+2016,Georgia,305040,258942,46098,Georgia,5.4
+2016,Hawaii,57229,64119,-6890,Hawaii,2.9
+2016,Idaho,71556,55772,15784,Idaho,3.7
+2016,Illinois,203713,345528,-141815,Illinois,5.9
+2016,Indiana,145782,137409,8373,Indiana,4.4
+2016,Iowa,78263,76999,1264,Iowa,3.6
+2016,Kansas,88830,92821,-3991,Kansas,4.0
+2016,Kentucky,113238,103370,9868,Kentucky,5.1
+2016,Louisiana,85371,92190,-6819,Louisiana,6.0
+2016,Maine,38590,32973,5617,Maine,3.8
+2016,Maryland,158647,186118,-27471,Maryland,4.2
+2016,Massachusetts,149408,176873,-27465,Massachusetts,4.0
+2016,Michigan,155874,156354,-480,Michigan,5.0
+2016,Minnesota,111307,121583,-10276,Minnesota,3.9
+2016,Mississippi,64639,77509,-12870,Mississippi,6.0
+2016,Missouri,162809,159177,3632,Missouri,4.6
+2016,Montana,37775,31479,6296,Montana,4.3
+2016,Nebraska,51448,47456,3992,Nebraska,3.1
+2016,Nevada,117899,88563,29336,Nevada,5.8
+2016,New Hampshire,52457,45628,6829,New Hampshire,2.9
+2016,New Jersey,144359,226830,-82471,New Jersey,4.9
+2016,New Mexico,64802,65578,-776,New Mexico,6.8
+2016,New York,260723,450136,-189413,New York,4.9
+2016,North Carolina,330896,256563,74333,North Carolina,5.1
+2016,North Dakota,29655,37658,-8003,North Dakota,3.0
+2016,Ohio,195396,212041,-16645,Ohio,5.0
+2016,Oklahoma,102000,105685,-3685,Oklahoma,4.6
+2016,Oregon,139334,107169,32165,Oregon,4.8
+2016,Pennsylvania,252060,257792,-5732,Pennsylvania,5.3
+2016,Rhode Island,32800,35606,-2806,Rhode Island,5.2
+2016,South Carolina,165230,127686,37544,South Carolina,4.9
+2016,South Dakota,31789,29654,2135,South Dakota,3.0
+2016,Tennessee,170867,182813,-11946,Tennessee,4.7
+2016,Texas,531996,444340,87656,Texas,4.6
+2016,Utah,107083,85803,21280,Utah,3.3
+2016,Vermont,21262,23693,-2431,Vermont,3.1
+2016,Virginia,264164,275671,-11507,Virginia,4.0
+2016,Washington,257728,192362,65366,Washington,5.2
+2016,West Virginia,47196,51476,-4280,West Virginia,6.1
+2016,Wisconsin,118814,113882,4932,Wisconsin,3.9
+2016,Wyoming,26471,27184,-713,Wyoming,5.3
+2017,Alabama,111803,101466,10337,Alabama,4.5
+2017,Alaska,30199,42972,-12773,Alaska,6.6
+2017,Arizona,261727,163214,98513,Arizona,5.0
+2017,Arkansas,79411,69850,9561,Arkansas,3.7
+2017,California,523131,661026,-137895,California,4.8
+2017,Colorado,226933,194296,32637,Colorado,2.6
+2017,Connecticut,83325,98971,-15646,Connecticut,4.4
+2017,Delaware,38532,35653,2879,Delaware,4.4
+2017,District of Columbia,56231,65018,-8787,District of Columbia,6.1
+2017,Florida,566476,447586,118890,Florida,4.3
+2017,Georgia,278889,254956,23933,Georgia,4.8
+2017,Hawaii,46457,66597,-20140,Hawaii,2.2
+2017,Idaho,71899,56954,14945,Idaho,3.2
+2017,Illinois,195092,339435,-144343,Illinois,5.0
+2017,Indiana,142290,132094,10196,Indiana,3.5
+2017,Iowa,77072,79358,-2286,Iowa,3.1
+2017,Kansas,86154,99660,-13506,Kansas,3.6
+2017,Kentucky,103985,99490,4495,Kentucky,4.8
+2017,Louisiana,72836,102212,-29376,Louisiana,5.1
+2017,Maine,34252,27425,6827,Maine,3.4
+2017,Maryland,165654,183900,-18246,Maryland,4.1
+2017,Massachusetts,146299,173033,-26734,Massachusetts,3.8
+2017,Michigan,148787,148059,728,Michigan,4.6
+2017,Minnesota,115623,125130,-9507,Minnesota,3.4
+2017,Mississippi,73549,78043,-4494,Mississippi,5.2
+2017,Missouri,164957,153284,11673,Missouri,3.8
+2017,Montana,35456,28012,7444,Montana,4.1
+2017,Nebraska,52507,47760,4747,Nebraska,3.0
+2017,Nevada,133074,98226,34848,Nevada,5.0
+2017,New Hampshire,52893,41740,11153,New Hampshire,2.8
+2017,New Jersey,152106,224961,-72855,New Jersey,4.5
+2017,New Mexico,57255,67296,-10041,New Mexico,6.1
+2017,New York,285252,452580,-167328,New York,4.6
+2017,North Carolina,313834,243206,70628,North Carolina,4.5
+2017,North Dakota,37315,37344,-29,North Dakota,2.6
+2017,Ohio,198929,206479,-7550,Ohio,4.9
+2017,Oklahoma,101961,96005,5956,Oklahoma,4.0
+2017,Oregon,149513,109454,40059,Oregon,4.1
+2017,Pennsylvania,250120,254634,-4514,Pennsylvania,5.0
+2017,Rhode Island,36850,30166,6684,Rhode Island,4.5
+2017,South Carolina,166573,128797,37776,South Carolina,4.2
+2017,South Dakota,26106,27412,-1306,South Dakota,3.0
+2017,Tennessee,191909,155665,36244,Tennessee,3.7
+2017,Texas,524511,467338,57173,Texas,4.4
+2017,Utah,99584,89721,9863,Utah,3.1
+2017,Vermont,21868,20872,996,Vermont,2.9
+2017,Virginia,250490,262563,-12073,Virginia,3.6
+2017,Washington,260787,198813,61974,Washington,4.7
+2017,West Virginia,40007,43321,-3314,West Virginia,5.2
+2017,Wisconsin,112519,113492,-973,Wisconsin,3.3
+2017,Wyoming,18511,25954,-7443,Wyoming,4.3
+2018,Alabama,109301,98194,11107,Alabama,3.9
+2018,Alaska,32099,39246,-7147,Alaska,6.1
+2018,Arizona,273714,179586,94128,Arizona,4.8
+2018,Arkansas,73179,69724,3455,Arkansas,3.6
+2018,California,501023,691145,-190122,California,4.3
+2018,Colorado,239153,203460,35693,Colorado,3.0
+2018,Connecticut,84718,114235,-29517,Connecticut,3.9
+2018,Delaware,34451,33395,1056,Delaware,3.7
+2018,District of Columbia,47555,60363,-12808,District of Columbia,5.7
+2018,Florida,587261,470977,116284,Florida,3.6
+2018,Georgia,274273,231337,42936,Georgia,4.0
+2018,Hawaii,54074,67293,-13219,Hawaii,2.4
+2018,Idaho,79765,55183,24582,Idaho,2.9
+2018,Illinois,206620,305033,-98413,Illinois,4.4
+2018,Indiana,145256,136563,8693,Indiana,3.4
+2018,Iowa,74199,70659,3540,Iowa,2.6
+2018,Kansas,95748,96850,-1102,Kansas,3.3
+2018,Kentucky,110456,100514,9942,Kentucky,4.2
+2018,Louisiana,81355,95326,-13971,Louisiana,4.8
+2018,Maine,34706,25012,9694,Maine,3.2
+2018,Maryland,163216,182323,-19107,Maryland,3.8
+2018,Massachusetts,144042,179017,-34975,Massachusetts,3.5
+2018,Michigan,139276,152605,-13329,Michigan,4.2
+2018,Minnesota,100270,112228,-11958,Minnesota,3.0
+2018,Mississippi,68000,76567,-8567,Mississippi,4.9
+2018,Missouri,152326,174949,-22623,Missouri,3.2
+2018,Montana,43375,35292,8083,Montana,3.7
+2018,Nebraska,54579,54462,117,Nebraska,2.9
+2018,Nevada,127362,89791,37571,Nevada,4.4
+2018,New Hampshire,48367,43633,4734,New Hampshire,2.6
+2018,New Jersey,159846,231321,-71475,New Jersey,4.0
+2018,New Mexico,60068,74459,-14391,New Mexico,4.9
+2018,New York,254447,458014,-203567,New York,4.1
+2018,North Carolina,318681,238947,79734,North Carolina,4.0
+2018,North Dakota,33735,33006,729,North Dakota,2.4
+2018,Ohio,198026,206948,-8922,Ohio,4.5
+2018,Oklahoma,106943,97474,9469,Oklahoma,3.3
+2018,Oregon,140627,132698,7929,Oregon,4.0
+2018,Pennsylvania,253520,240832,12688,Pennsylvania,4.4
+2018,Rhode Island,32841,31423,1418,Rhode Island,4.0
+2018,South Carolina,186505,141258,45247,South Carolina,3.4
+2018,South Dakota,26775,28747,-1972,South Dakota,2.8
+2018,Tennessee,209377,173250,36127,Tennessee,3.5
+2018,Texas,563945,462140,101805,Texas,3.9
+2018,Utah,100824,91741,9083,Utah,2.9
+2018,Vermont,26306,20832,5474,Vermont,2.5
+2018,Virginia,274003,262345,11658,Virginia,3.0
+2018,Washington,260906,222472,38434,Washington,4.4
+2018,West Virginia,43841,46546,-2705,West Virginia,5.1
+2018,Wisconsin,114613,105789,8824,Wisconsin,3.0
+2018,Wyoming,25734,26078,-344,Wyoming,4.1
+2019,Alabama,104780,98704,6076,Alabama,3.2
+2019,Alaska,34031,50134,-16103,Alaska,5.6
+2019,Arizona,253295,173631,79664,Arizona,4.8
+2019,Arkansas,59723,64524,-4801,Arkansas,3.5
+2019,California,480204,653551,-173347,California,4.1
+2019,Colorado,240600,198416,42184,Colorado,2.7
+2019,Connecticut,90044,105243,-15199,Connecticut,3.6
+2019,Delaware,38014,28367,9647,Delaware,3.6
+2019,District of Columbia,58879,52084,6795,District of Columbia,5.5
+2019,Florida,601611,457301,144310,Florida,3.2
+2019,Georgia,284541,253565,30976,Georgia,3.6
+2019,Hawaii,49708,68417,-18709,Hawaii,2.5
+2019,Idaho,78730,54826,23904,Idaho,2.9
+2019,Illinois,190627,308179,-117552,Illinois,4.0
+2019,Indiana,151443,142441,9002,Indiana,3.3
+2019,Iowa,72651,74697,-2046,Iowa,2.7
+2019,Kansas,94648,88983,5665,Kansas,3.2
+2019,Kentucky,100057,101061,-1004,Kentucky,4.1
+2019,Louisiana,67640,95887,-28247,Louisiana,4.6
+2019,Maine,36129,38267,-2138,Maine,2.9
+2019,Maryland,141766,183299,-41533,Maryland,3.4
+2019,Massachusetts,144079,178104,-34025,Massachusetts,3.0
+2019,Michigan,132008,152365,-20357,Michigan,4.1
+2019,Minnesota,106920,114258,-7338,Minnesota,3.3
+2019,Mississippi,61683,60094,1589,Mississippi,5.5
+2019,Missouri,152345,135762,16583,Missouri,3.2
+2019,Montana,40862,39242,1620,Montana,3.5
+2019,Nebraska,46064,52425,-6361,Nebraska,3.1
+2019,Nevada,132950,105357,27593,Nevada,4.1
+2019,New Hampshire,50288,42162,8126,New Hampshire,2.6
+2019,New Jersey,149260,229484,-80224,New Jersey,3.5
+2019,New Mexico,55545,71212,-15667,New Mexico,5.0
+2019,New York,254806,439708,-184902,New York,3.9
+2019,North Carolina,315215,255346,59869,North Carolina,3.9
+2019,North Dakota,36668,29871,6797,North Dakota,2.2
+2019,Ohio,205542,192506,13036,Ohio,4.1
+2019,Oklahoma,101844,85599,16245,Oklahoma,3.1
+2019,Oregon,129921,115723,14198,Oregon,3.7
+2019,Pennsylvania,267465,256901,10564,Pennsylvania,4.3
+2019,Rhode Island,34984,31137,3847,Rhode Island,3.5
+2019,South Carolina,176008,129227,46781,South Carolina,2.8
+2019,South Dakota,26934,27542,-608,South Dakota,2.7
+2019,Tennessee,196765,156558,40207,Tennessee,3.3
+2019,Texas,559661,453015,106646,Texas,3.5
+2019,Utah,95608,88426,7182,Utah,2.5
+2019,Vermont,21212,22714,-1502,Vermont,2.1
+2019,Virginia,264855,276849,-11994,Virginia,2.8
+2019,Washington,231956,199758,32198,Washington,4.2
+2019,West Virginia,39548,40460,-912,West Virginia,4.9
+2019,Wisconsin,107973,101668,6305,Wisconsin,3.2
+2019,Wyoming,30247,23287,6960,Wyoming,3.7
+2021,Alabama,115641,104481,11160,Alabama,3.4
+2021,Alaska,31378,42291,-10913,Alaska,6.4
+2021,Arizona,264948,176783,88165,Arizona,5.0
+2021,Arkansas,76108,62338,13770,Arkansas,4.0
+2021,California,433402,841065,-407663,California,7.3
+2021,Colorado,250031,246177,3854,Colorado,5.5
+2021,Connecticut,106618,96578,10040,Connecticut,6.4
+2021,Delaware,42551,36471,6080,Delaware,5.5
+2021,District of Columbia,57746,62622,-4876,District of Columbia,6.8
+2021,Florida,674740,469577,205163,Florida,4.7
+2021,Georgia,302512,238445,64067,Georgia,3.9
+2021,Hawaii,71626,59236,12390,Hawaii,6.0
+2021,Idaho,96388,57073,39315,Idaho,3.6
+2021,Illinois,195177,341425,-146248,Illinois,6.1
+2021,Indiana,156417,145489,10928,Indiana,3.9
+2021,Iowa,77245,72943,4302,Iowa,3.9
+2021,Kansas,102319,86141,16178,Kansas,3.4
+2021,Kentucky,107693,92939,14754,Kentucky,4.4
+2021,Louisiana,81944,103318,-21374,Louisiana,5.6
+2021,Maine,43492,18886,24606,Maine,4.7
+2021,Maryland,160016,185657,-25641,Maryland,5.2
+2021,Massachusetts,158311,209750,-51439,Massachusetts,5.3
+2021,Michigan,143042,157838,-14796,Michigan,5.7
+2021,Minnesota,93286,140559,-47273,Minnesota,3.7
+2021,Mississippi,59759,57113,2646,Mississippi,5.4
+2021,Missouri,165921,147737,18184,Missouri,4.1
+2021,Montana,44531,30360,14171,Montana,3.4
+2021,Nebraska,43287,53116,-9829,Nebraska,2.7
+2021,Nevada,132648,92184,40464,Nevada,6.8
+2021,New Hampshire,53245,44326,8919,New Hampshire,3.5
+2021,New Jersey,195828,245729,-49901,New Jersey,6.7
+2021,New Mexico,68019,57585,10434,New Mexico,7.1
+2021,New York,287249,571041,-283792,New York,7.1
+2021,North Carolina,336681,237275,99406,North Carolina,4.8
+2021,North Dakota,37844,31390,6454,North Dakota,3.1
+2021,Ohio,184477,189534,-5057,Ohio,5.3
+2021,Oklahoma,108288,71218,37070,Oklahoma,4.0
+2021,Oregon,133935,125363,8572,Oregon,5.2
+2021,Pennsylvania,261831,259752,2079,Pennsylvania,5.9
+2021,Rhode Island,43266,32047,11219,Rhode Island,5.6
+2021,South Carolina,196200,116932,79268,South Carolina,3.9
+2021,South Dakota,27528,25910,1618,South Dakota,2.6
+2021,Tennessee,220591,150886,69705,Tennessee,4.5
+2021,Texas,591395,447363,144032,Texas,5.6
+2021,Utah,101051,78976,22075,Utah,2.8
+2021,Vermont,31809,17261,14548,Vermont,3.5
+2021,Virginia,272693,275906,-3213,Virginia,3.9
+2021,Washington,225306,269232,-43926,Washington,5.2
+2021,West Virginia,43801,36026,7775,West Virginia,5.1
+2021,Wisconsin,122742,112329,10413,Wisconsin,3.8
+2021,Wyoming,27281,35164,-7883,Wyoming,4.5
+2022,Alabama,139263,102894,36369,Alabama,2.5
+2022,Alaska,36563,32755,3808,Alaska,4.4
+2022,Arizona,282729,204734,77995,Arizona,3.8
+2022,Arkansas,86375,74408,11967,Arkansas,3.2
+2022,California,475803,817669,-341866,California,4.3
+2022,Colorado,229876,239200,-9324,Colorado,3.1
+2022,Connecticut,145315,88733,56582,Connecticut,4.0
+2022,Delaware,46162,33691,12471,Delaware,4.2
+2022,District of Columbia,64506,67904,-3398,District of Columbia,4.7
+2022,Florida,738969,489905,249064,Florida,3.0
+2022,Georgia,327795,253275,74520,Georgia,3.1
+2022,Hawaii,56209,67257,-11048,Hawaii,3.2
+2022,Idaho,87949,70542,17407,Idaho,2.9
+2022,Illinois,228308,344027,-115719,Illinois,4.6
+2022,Indiana,149331,137624,11707,Indiana,3.1
+2022,Iowa,72231,70359,1872,Iowa,2.9
+2022,Kansas,94208,84558,9650,Kansas,2.8
+2022,Kentucky,113197,88556,24641,Kentucky,4.0
+2022,Louisiana,75330,105897,-30567,Louisiana,3.7
+2022,Maine,41618,34659,6959,Maine,2.8
+2022,Maryland,139784,205406,-65622,Maryland,3.0
+2022,Massachusetts,171077,214644,-43567,Massachusetts,3.7
+2022,Michigan,157955,167885,-9930,Michigan,4.2
+2022,Minnesota,117016,130807,-13791,Minnesota,2.4
+2022,Mississippi,69948,59596,10352,Mississippi,3.8
+2022,Missouri,163254,156845,6409,Missouri,2.6
+2022,Montana,48165,38483,9682,Montana,2.7
+2022,Nebraska,49159,49472,-313,Nebraska,2.2
+2022,Nevada,127406,114131,13275,Nevada,5.2
+2022,New Hampshire,49782,46866,2916,New Hampshire,2.4
+2022,New Jersey,175023,267106,-92083,New Jersey,3.9
+2022,New Mexico,72095,58443,13652,New Mexico,4.1
+2022,New York,301461,545598,-244137,New York,4.3
+2022,North Carolina,341582,259422,82160,North Carolina,3.7
+2022,North Dakota,34536,28359,6177,North Dakota,2.1
+2022,Ohio,200809,196766,4043,Ohio,4.0
+2022,Oklahoma,117788,85782,32006,Oklahoma,3.0
+2022,Oregon,128359,157729,-29370,Oregon,4.0
+2022,Pennsylvania,262700,278699,-15999,Pennsylvania,4.2
+2022,Rhode Island,40311,39156,1155,Rhode Island,3.2
+2022,South Carolina,219707,154398,65309,South Carolina,3.2
+2022,South Dakota,31300,28803,2497,South Dakota,1.9
+2022,Tennessee,225969,182669,43300,Tennessee,3.4
+2022,Texas,668338,494077,174261,Texas,3.9
+2022,Utah,91341,109290,-17949,Utah,2.4
+2022,Vermont,26151,23170,2981,Vermont,2.3
+2022,Virginia,266970,282050,-15080,Virginia,2.7
+2022,Washington,248355,257785,-9430,Washington,4.1
+2022,West Virginia,43493,40535,2958,West Virginia,3.9
+2022,Wisconsin,120434,121329,-895,Wisconsin,2.8
+2022,Wyoming,28948,27005,1943,Wyoming,3.4
+2023,Alabama,119421,99663,19758,Alabama,2.5
+2023,Alaska,30676,35800,-5124,Alaska,4.3
+2023,Arizona,256203,193670,62533,Arizona,3.7
+2023,Arkansas,73123,63179,9944,Arkansas,3.2
+2023,California,422075,690127,-268052,California,4.7
+2023,Colorado,232663,211370,21293,Colorado,3.3
+2023,Connecticut,94990,91384,3606,Connecticut,3.2
+2023,Delaware,39006,29121,9885,Delaware,3.9
+2023,District of Columbia,56860,64336,-7476,District of Columbia,4.9
+2023,Florida,636933,510925,126008,Florida,2.9
+2023,Georgia,310452,250484,59968,Georgia,3.2
+2023,Hawaii,58539,58078,461,Hawaii,2.9
+2023,Idaho,81708,64970,16738,Idaho,3.2
+2023,Illinois,203758,297005,-93247,Illinois,4.5
+2023,Indiana,150649,120876,29773,Indiana,3.4
+2023,Iowa,73176,75032,-1856,Iowa,3.0
+2023,Kansas,77138,92713,-15575,Kansas,2.9
+2023,Kentucky,106797,92582,14215,Kentucky,4.2
+2023,Louisiana,69464,101180,-31716,Louisiana,3.7
+2023,Maine,38089,27227,10862,Maine,2.6
+2023,Maryland,162674,198764,-36090,Maryland,2.2
+2023,Massachusetts,145021,184534,-39513,Massachusetts,3.5
+2023,Michigan,135115,155530,-20415,Michigan,3.9
+2023,Minnesota,100277,108966,-8689,Minnesota,2.8
+2023,Mississippi,64610,61833,2777,Mississippi,3.1
+2023,Missouri,143688,135597,8091,Missouri,3.1
+2023,Montana,36775,36822,-47,Montana,2.7
+2023,Nebraska,48590,48659,-69,Nebraska,2.3
+2023,Nevada,122219,104444,17775,Nevada,5.1
+2023,New Hampshire,39695,46753,-7058,New Hampshire,2.3
+2023,New Jersey,156335,225514,-69179,New Jersey,4.3
+2023,New Mexico,64673,64917,-244,New Mexico,3.7
+2023,New York,302835,481544,-178709,New York,4.0
+2023,North Carolina,339255,232663,106592,North Carolina,3.5
+2023,North Dakota,34415,20814,13601,North Dakota,2.0
+2023,Ohio,185341,184281,1060,Ohio,3.7
+2023,Oklahoma,107679,84309,23370,Oklahoma,3.1
+2023,Oregon,125246,131403,-6157,Oregon,3.8
+2023,Pennsylvania,237526,272461,-34935,Pennsylvania,3.7
+2023,Rhode Island,31599,31416,183,Rhode Island,3.0
+2023,South Carolina,203674,135007,68667,South Carolina,3.0
+2023,South Dakota,30055,29464,591,South Dakota,1.8
+2023,Tennessee,203156,180407,22749,Tennessee,3.3
+2023,Texas,611942,478570,133372,Texas,4.0
+2023,Utah,90865,94351,-3486,Utah,2.7
+2023,Vermont,26743,19151,7592,Vermont,1.9
+2023,Virginia,276161,253240,22921,Virginia,2.7
+2023,Washington,212616,215277,-2661,Washington,4.2
+2023,West Virginia,42020,41042,978,West Virginia,3.9
+2023,Wisconsin,114938,100085,14853,Wisconsin,2.8
+2023,Wyoming,22957,22875,82,Wyoming,2.9
