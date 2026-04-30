@@ -182,6 +182,62 @@ def get_default_states(group):
 # Tab 1: Overview
 # =========================
 with tab1:
+    st.subheader("Project Overview")
+
+
+    st.markdown("""
+<div class="note-box">
+<b>Data limitation:</b><br>
+The year <b>2020 is excluded</b> from this analysis because migration patterns during COVID-19 were highly abnormal. 
+Travel restrictions, temporary relocations, and remote work created short-term movements that do not reflect stable trends. 
+To keep the analysis comparable across years, this dashboard focuses on non-pandemic periods.
+</div>
+""", unsafe_allow_html=True)
+    
+    st.markdown("""
+    <div class="note-box">
+    <b>Why this project?</b><br>
+    People are moving across U.S. states in uneven ways. Some states attract many new residents,
+    while others lose more people than they gain. This project uses migration and unemployment data
+    to explore where people are moving, which states are gaining or losing residents, and whether
+    labor market conditions help explain these patterns.
+    </div>
+    """, unsafe_allow_html=True)
+
+    st.markdown("""
+    <div class="insight-box">
+    <b>Data sources:</b><br>
+    - U.S. interstate migration flow data, cleaned into state-level inflow, outflow, and net migration measures.<br>
+    - State-level unemployment data, merged by state and year.<br><br>
+    <b>Key definition:</b> Net migration = inflow − outflow.
+    A negative value means more people left the state than entered from other U.S. states.
+    </div>
+    """, unsafe_allow_html=True)
+
+    st.markdown("### Dashboard Roadmap")
+
+    r1, r2, r3 = st.columns(3)
+
+    with r1:
+        st.markdown("""
+        **Migration Map**  
+        Shows which states are gaining or losing people geographically.
+        """)
+
+    with r2:
+        st.markdown("""
+        **State Trends**  
+        Compares migration and unemployment patterns over time.
+        """)
+
+    with r3:
+        st.markdown("""
+        **Migration Network**  
+        Shows the largest state-to-state migration flows.
+        """)
+
+    st.markdown("---")
+
     st.subheader(f"National Snapshot, {global_year}")
 
     df_year = df[df["year"] == global_year].copy()
@@ -210,8 +266,9 @@ with tab1:
 
     st.markdown("""
     <div class="insight-box">
-    <b>Key takeaway:</b> Net migration is about balance, not size alone. 
+    <b>Main finding preview:</b> Migration is not simply about whether a state is popular.
     Large states can receive many movers and still show net outflow if even more people leave.
+    This is why the dashboard separates inflow, outflow, and net migration.
     </div>
     """, unsafe_allow_html=True)
 
@@ -272,8 +329,8 @@ with tab1:
 
     st.markdown("""
     <div class="insight-box">
-    <b>Key takeaway:</b> A state can be both a major destination and a major origin. 
-    This is why inflow and outflow should be read together.
+    <b>Key takeaway:</b> The same state can be both a major destination and a major origin.
+    That is why inflow and outflow should be read together.
     </div>
     """, unsafe_allow_html=True)
 
